@@ -1,0 +1,17 @@
+{
+    "OrderID": 1001,
+    "Address": "Calle 7, N° 1234, La Plata, Buenos Aires",
+    "Status": "En proceso",
+    "Articles": [
+        {
+            "Name": "Enrutador de Red",
+            "Quantity": 2,
+            "Dangerous": false
+        },
+        {
+            "Name": "Baterías de Litio",
+            "Quantity": 5,
+            "Dangerous": true
+        }
+    ]
+}
